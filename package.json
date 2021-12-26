@@ -1,0 +1,28 @@
+{
+  "name": "todoapp",
+  "version": "1.0.0",
+  "description": "ToDo list web application",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NavnathGunjal07/ToDo-web-app.git"
+  },
+  "keywords": [
+    "todo",
+    "app",
+    "todo",
+    "list"
+  ],
+  "author": "Navnath Gunjal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/NavnathGunjal07/ToDo-web-app/issues"
+  },
+  "homepage": "https://github.com/NavnathGunjal07/ToDo-web-app#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
+}
